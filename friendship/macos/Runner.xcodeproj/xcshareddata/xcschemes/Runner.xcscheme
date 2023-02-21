@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "frienship.app"
+=======
+               BuildableName = "friendship.app"
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "frienship.app"
+=======
+            BuildableName = "friendship.app"
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -54,7 +62,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "frienship.app"
+=======
+            BuildableName = "friendship.app"
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -71,7 +83,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "frienship.app"
+=======
+            BuildableName = "friendship.app"
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

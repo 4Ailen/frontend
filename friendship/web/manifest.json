@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "frienship",
     "short_name": "frienship",
+=======
+    "name": "friendship",
+    "short_name": "friendship",
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

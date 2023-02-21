@@ -294,7 +294,11 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.frienship;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.friendship;
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -422,7 +426,11 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.frienship;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.friendship;
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -444,7 +452,11 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.frienship;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.friendship;
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
