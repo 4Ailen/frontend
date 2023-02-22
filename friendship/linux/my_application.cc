@@ -40,11 +40,25 @@ static void my_application_activate(GApplication* application) {
   if (use_header_bar) {
     GtkHeaderBar* header_bar = GTK_HEADER_BAR(gtk_header_bar_new());
     gtk_widget_show(GTK_WIDGET(header_bar));
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    gtk_header_bar_set_title(header_bar, "frienship");
+    gtk_header_bar_set_show_close_button(header_bar, TRUE);
+    gtk_window_set_titlebar(window, GTK_WIDGET(header_bar));
+  } else {
+    gtk_window_set_title(window, "frienship");
+=======
+>>>>>>> feea7f3a007e831d9e3d08506e98a649f2dbc2ea
     gtk_header_bar_set_title(header_bar, "friendship");
     gtk_header_bar_set_show_close_button(header_bar, TRUE);
     gtk_window_set_titlebar(window, GTK_WIDGET(header_bar));
   } else {
     gtk_window_set_title(window, "friendship");
+<<<<<<< HEAD
+=======
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
+>>>>>>> feea7f3a007e831d9e3d08506e98a649f2dbc2ea
   }
 
   gtk_window_set_default_size(window, 1280, 720);

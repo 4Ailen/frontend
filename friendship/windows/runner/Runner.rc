@@ -90,12 +90,27 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+            VALUE "FileDescription", "frienship" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "frienship" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "frienship.exe" "\0"
+            VALUE "ProductName", "frienship" "\0"
+=======
+>>>>>>> feea7f3a007e831d9e3d08506e98a649f2dbc2ea
             VALUE "FileDescription", "friendship" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "friendship" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "friendship.exe" "\0"
             VALUE "ProductName", "friendship" "\0"
+<<<<<<< HEAD
+=======
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
+>>>>>>> feea7f3a007e831d9e3d08506e98a649f2dbc2ea
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

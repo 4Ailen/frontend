@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # friendship
+=======
+<<<<<<< HEAD
+# frienship
+=======
+# friendship
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
+>>>>>>> feea7f3a007e831d9e3d08506e98a649f2dbc2ea
 
 A new Flutter project.
 

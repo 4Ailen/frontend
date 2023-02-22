@@ -5,7 +5,15 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Friendship</string>
+=======
+<<<<<<< HEAD
+	<string>Frienship</string>
+=======
+	<string>Friendship</string>
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
+>>>>>>> feea7f3a007e831d9e3d08506e98a649f2dbc2ea
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +21,15 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>friendship</string>
+=======
+<<<<<<< HEAD
+	<string>frienship</string>
+=======
+	<string>friendship</string>
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
+>>>>>>> feea7f3a007e831d9e3d08506e98a649f2dbc2ea
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

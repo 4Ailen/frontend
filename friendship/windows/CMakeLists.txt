@@ -1,10 +1,24 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+project(frienship LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "frienship")
+=======
+>>>>>>> feea7f3a007e831d9e3d08506e98a649f2dbc2ea
 project(friendship LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "friendship")
+<<<<<<< HEAD
+=======
+>>>>>>> 12db7205233d38e4e1a735aaee1238c26357bf3d
+>>>>>>> feea7f3a007e831d9e3d08506e98a649f2dbc2ea
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
