@@ -30,13 +30,13 @@ class _SignUpPageState extends State<SignUpPage> {
   //mbti
   final TextEditingController MbtiController = new TextEditingController();
   //이미지
-  File? _image;
+  File? _profileImage;
   final picker = ImagePicker();
   //비동기 처리를 통해 이미지 가져오기
   Future getImage(ImageSource imageSource) async {
     final image = await picker.pickImage(source: imageSource);
     setState(() {
-      _image = File(image!.path); // 가져온 이미지를 _image에 저장
+      _profileImage = File(image!.path); // 가져온 이미지를 _image에 저장
     });
   }
   //email
@@ -108,7 +108,7 @@ class _SignUpPageState extends State<SignUpPage> {
                   width: MediaQuery.of(context).size.width,
                   height: MediaQuery.of(context).size.width /2,
                   child: Center(
-                    child: _image == null ? Text('이미지 없음') : Image.file(File(_image!.path)),
+                    child: _profileImage == null ? Text('이미지 없음') : Image.file(File(_profileImage!.path)),
                   ),
                 ),
                 Row(

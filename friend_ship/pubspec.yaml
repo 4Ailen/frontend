@@ -29,6 +29,8 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  dio: ^5.0.1
+  http: ^0.13.5
   syncfusion_flutter_datepicker: ^20.4.51
   image_picker: ^0.8.6+3
   flutter:
